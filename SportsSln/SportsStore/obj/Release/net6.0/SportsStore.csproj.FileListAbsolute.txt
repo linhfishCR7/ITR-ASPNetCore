@@ -1,0 +1,8 @@
+D:\projects\dotnet\SportsSln\SportsStore\obj\Release\net6.0\SportsStore.csproj.AssemblyReference.cache
+D:\projects\dotnet\SportsSln\SportsStore\obj\Release\net6.0\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\dotnet\SportsSln\SportsStore\obj\Release\net6.0\SportsStore.AssemblyInfoInputs.cache
+D:\projects\dotnet\SportsSln\SportsStore\obj\Release\net6.0\SportsStore.AssemblyInfo.cs
+D:\projects\dotnet\SportsSln\SportsStore\obj\Release\net6.0\SportsStore.csproj.CoreCompileInputs.cache
+D:\projects\dotnet\SportsSln\SportsStore\obj\Release\net6.0\SportsStore.MvcApplicationPartsAssemblyInfo.cache
+D:\projects\dotnet\SportsSln\SportsStore\obj\Release\net6.0\SportsStore.RazorAssemblyInfo.cache
+D:\projects\dotnet\SportsSln\SportsStore\obj\Release\net6.0\SportsStore.RazorAssemblyInfo.cs

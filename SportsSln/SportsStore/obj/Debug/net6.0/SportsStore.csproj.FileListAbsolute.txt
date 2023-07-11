@@ -1,5 +1,6 @@
 D:\projects\dotnet\SportsSln\SportsStore\bin\Debug\net6.0\appsettings.Development.json
 D:\projects\dotnet\SportsSln\SportsStore\bin\Debug\net6.0\appsettings.json
+D:\projects\dotnet\SportsSln\SportsStore\bin\Debug\net6.0\appsettings.Production.json
 D:\projects\dotnet\SportsSln\SportsStore\bin\Debug\net6.0\global.json
 D:\projects\dotnet\SportsSln\SportsStore\bin\Debug\net6.0\libman.json
 D:\projects\dotnet\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.staticwebassets.runtime.json
@@ -246,4 +247,3 @@ D:\projects\dotnet\SportsSln\SportsStore\obj\Debug\net6.0\refint\SportsStore.dll
 D:\projects\dotnet\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.pdb
 D:\projects\dotnet\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.genruntimeconfig.cache
 D:\projects\dotnet\SportsSln\SportsStore\obj\Debug\net6.0\ref\SportsStore.dll
-D:\projects\dotnet\SportsSln\SportsStore\bin\Debug\net6.0\appsettings.Production.json

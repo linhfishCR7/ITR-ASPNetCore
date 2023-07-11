@@ -37,10 +37,6 @@
         <ValidationMessage For="@(() => Product.Price)" />
         <InputNumber class="form-control" @bind-Value="Product.Price" />
     </div>
-    @*<div class="form-group">
-        <label>Image</label>
-        <InputFile class="form-control-file" OnChange="HandleFileChange" />
-    </div>*@
     <div class="mt-2">
         <button type="submit" class="btn btn-@ThemeColor">Save</button>
         <NavLink class="btn btn-secondary" href="/admin/products">Cancel</NavLink>
@@ -48,29 +44,12 @@
 </EditForm>
 @code {
     public IStoreRepository Repository => Service;
-    //public IFormFile? Image { get; set; }
     [Inject]
     public NavigationManager? NavManager { get; set; }
     [Parameter]
     public long Id { get; set; } = 0;
     public Product Product { get; set; } = new Product();
     
-    //private async Task<string> UploadImage(IFormFile file)
-    //{
-    //    // Implement your logic here to upload the image file
-    //    // This could involve saving the file to a server directory or
-    //    // uploading it to a cloud storage service and returning the image URL
-
-    //    // Example code to save the image file to the wwwroot/images directory
-    //    var fileName = Path.GetFileName(file.FileName);
-    //    var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images", fileName);
-    //    using (var stream = new FileStream(filePath, FileMode.Create))
-    //    {
-    //        await file.CopyToAsync(stream);
-    //    }
-
-    //    return "/images/" + fileName; // Return the image URL
-    //}
 
     protected override void OnParametersSet()
     {
@@ -84,14 +63,6 @@
     {
         if (Id == 0)
         {
-            // Upload the image file
-            //if (Image != null)
-            //{
-            //    // Save the image file to the server or a cloud storage service
-            //    // and set the Image property of the Product accordingly
-            //    string imageUrl = await UploadImage(Image);
-            //    Product.Image = imageUrl;
-            //}
             Repository.CreateProduct(Product);
         }
         else
@@ -100,10 +71,6 @@
         }
         NavManager?.NavigateTo("/admin/products");
     }
-    //private async Task HandleFileChange(InputFileChangeEventArgs e)
-    //{
-    //    Image = e.File;
-    //}
 
     public string ThemeColor => Id == 0 ? "primary" : "warning";
     public string TitleText => Id == 0 ? "Create" : "Edit";

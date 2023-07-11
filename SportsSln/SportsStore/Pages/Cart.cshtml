@@ -7,6 +7,7 @@
         <tr>
             <th>Quantity</th>
             <th>Item</th>
+            <th>Image</th>
             <th class="text-right">Price</th>
             <th class="text-right">Subtotal</th>
             <th></th>
@@ -18,6 +19,7 @@
             <tr>
                 <td class="text-center">@line.Quantity</td>
                 <td class="text-left">@line.Product.Name</td>
+                <td><img src="@line.Product.Image" class="img-thumbnail" style="max-width:50%; height: 100px"/></td>
                 <td class="text-right">@line.Product.Price.ToString("c")</td>
                 <td class="text-right">
                     @((line.Quantity * line.Product.Price).ToString("c"))

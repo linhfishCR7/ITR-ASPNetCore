@@ -11,6 +11,7 @@
                     <td>@o.Name</td>
                     <td>@o.Zip</td>
                     <th>Product</th>
+                    <th>Image</th>
                     <th>Quantity</th>
                     <td>
                         <button class="btn btn-sm btn-danger"
@@ -24,6 +25,7 @@
                     <tr>
                         <td colspan="2"></td>
                         <td>@line.Product.Name</td>
+                        <td><img src="@line.Product.Image" class="img-thumbnail" style="max-width:50%; height: 100px" /></td>
                         <td>@line.Quantity</td>
                         <td></td>
                     </tr>

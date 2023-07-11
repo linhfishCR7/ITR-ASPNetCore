@@ -4,6 +4,10 @@
     <tbody>
         <tr><th>ID</th><td>@Product?.ProductID</td></tr>
         <tr><th>Name</th><td>@Product?.Name</td></tr>
+        <tr>
+            <th>Image</th>
+            <td><img src="@Product?.Image" class="img-thumbnail" style="max-width:50%; height: 100px" /></td>
+        </tr>
         <tr><th>Description</th><td>@Product?.Description</td></tr>
         <tr><th>Category</th><td>@Product?.Category</td></tr>
         <tr><th>Price</th><td>@Product?.Price.ToString("C")</td></tr>

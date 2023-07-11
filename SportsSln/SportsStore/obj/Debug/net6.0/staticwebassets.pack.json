@@ -1,8 +1,40 @@
 {
   "Files": [
     {
-      "Id": "D:\\projects\\dotnet\\SportsSln\\SportsStore\\wwwroot\\images\\project-17.jpg",
-      "PackagePath": "staticwebassets\\images\\project-17.jpg"
+      "Id": "D:\\projects\\dotnet\\SportsSln\\SportsStore\\wwwroot\\images\\hoalan-001.jpg",
+      "PackagePath": "staticwebassets\\images\\hoalan-001.jpg"
+    },
+    {
+      "Id": "D:\\projects\\dotnet\\SportsSln\\SportsStore\\wwwroot\\images\\hoalan-002.jpg",
+      "PackagePath": "staticwebassets\\images\\hoalan-002.jpg"
+    },
+    {
+      "Id": "D:\\projects\\dotnet\\SportsSln\\SportsStore\\wwwroot\\images\\hoalan-003.jpg",
+      "PackagePath": "staticwebassets\\images\\hoalan-003.jpg"
+    },
+    {
+      "Id": "D:\\projects\\dotnet\\SportsSln\\SportsStore\\wwwroot\\images\\hoalan-004.jpg",
+      "PackagePath": "staticwebassets\\images\\hoalan-004.jpg"
+    },
+    {
+      "Id": "D:\\projects\\dotnet\\SportsSln\\SportsStore\\wwwroot\\images\\hoalan-005.jpg",
+      "PackagePath": "staticwebassets\\images\\hoalan-005.jpg"
+    },
+    {
+      "Id": "D:\\projects\\dotnet\\SportsSln\\SportsStore\\wwwroot\\images\\hoalan-006.jpg",
+      "PackagePath": "staticwebassets\\images\\hoalan-006.jpg"
+    },
+    {
+      "Id": "D:\\projects\\dotnet\\SportsSln\\SportsStore\\wwwroot\\images\\hoalan-007.jpg",
+      "PackagePath": "staticwebassets\\images\\hoalan-007.jpg"
+    },
+    {
+      "Id": "D:\\projects\\dotnet\\SportsSln\\SportsStore\\wwwroot\\images\\hoalan-008.jpg",
+      "PackagePath": "staticwebassets\\images\\hoalan-008.jpg"
+    },
+    {
+      "Id": "D:\\projects\\dotnet\\SportsSln\\SportsStore\\wwwroot\\images\\hoalan-009.jpg",
+      "PackagePath": "staticwebassets\\images\\hoalan-009.jpg"
     },
     {
       "Id": "D:\\projects\\dotnet\\SportsSln\\SportsStore\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",

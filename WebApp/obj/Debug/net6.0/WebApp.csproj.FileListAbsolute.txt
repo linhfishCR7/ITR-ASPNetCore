@@ -13,7 +13,6 @@ D:\projects\dotnet\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstrac
 D:\projects\dotnet\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\projects\dotnet\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\projects\dotnet\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\projects\dotnet\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
 D:\projects\dotnet\WebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
 D:\projects\dotnet\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
 D:\projects\dotnet\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
@@ -57,8 +56,3 @@ D:\projects\dotnet\WebApp\obj\Debug\net6.0\WebApp.genruntimeconfig.cache
 D:\projects\dotnet\WebApp\obj\Debug\net6.0\ref\WebApp.dll
 D:\projects\dotnet\WebApp\bin\Debug\net6.0\libman.json
 D:\projects\dotnet\WebApp\bin\Debug\net6.0\WebApp.staticwebassets.runtime.json
-D:\projects\dotnet\WebApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
-D:\projects\dotnet\WebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\projects\dotnet\WebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\projects\dotnet\WebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\projects\dotnet\WebApp\obj\Debug\net6.0\WebApp.MvcApplicationPartsAssemblyInfo.cs

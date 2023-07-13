@@ -56,3 +56,12 @@ D:\projects\dotnet\WebApp\obj\Debug\net6.0\WebApp.genruntimeconfig.cache
 D:\projects\dotnet\WebApp\obj\Debug\net6.0\ref\WebApp.dll
 D:\projects\dotnet\WebApp\bin\Debug\net6.0\libman.json
 D:\projects\dotnet\WebApp\bin\Debug\net6.0\WebApp.staticwebassets.runtime.json
+D:\projects\dotnet\WebApp\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\projects\dotnet\WebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\projects\dotnet\WebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\projects\dotnet\WebApp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\projects\dotnet\WebApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\projects\dotnet\WebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\projects\dotnet\WebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\projects\dotnet\WebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\projects\dotnet\WebApp\obj\Debug\net6.0\WebApp.MvcApplicationPartsAssemblyInfo.cs

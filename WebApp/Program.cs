@@ -1,8 +1,5 @@
 using Microsoft.EntityFrameworkCore;
 using WebApp.Models;
-using System.Text.Json;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,32 +9,22 @@ builder.Services.AddDbContext<DataContext>(options =>
     "ConnectionStrings:ProductConnection"]);
     options.EnableSensitiveDataLogging(true);
 });
-builder.Services.AddControllers()
-.AddNewtonsoftJson().AddXmlDataContractSerializerFormatters();
-builder.Services.AddControllers().AddNewtonsoftJson();
-builder.Services.Configure<MvcNewtonsoftJsonOptions>(opts =>
-{
-    opts.SerializerSettings.NullValueHandling
-    = Newtonsoft.Json.NullValueHandling.Ignore;
-});
-builder.Services.Configure<MvcOptions>(opts =>
-{
-    opts.RespectBrowserAcceptHeader = true;
-    opts.ReturnHttpNotAcceptable = true;
-});
+
 builder.Services.AddControllers();
-builder.Services.AddSwaggerGen(c =>
+builder.Services.AddControllersWithViews();
+
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession(options =>
 {
-    c.SwaggerDoc("v1", new OpenApiInfo { Title = "WebApp", Version = "v1" });
+    options.Cookie.IsEssential = true;
 });
+
 var app = builder.Build();
+app.UseStaticFiles();
+app.UseSession();
 app.MapControllers();
-app.MapGet("/", () => "Hello World!");
-app.UseSwagger();
-app.UseSwaggerUI(options =>
-{
-    options.SwaggerEndpoint("/swagger/v1/swagger.json", "WebApp");
-});
+app.MapDefaultControllerRoute();
+
 var context = app.Services.CreateScope().ServiceProvider.GetRequiredService<DataContext>();
 SeedData.SeedDatabase(context);
 

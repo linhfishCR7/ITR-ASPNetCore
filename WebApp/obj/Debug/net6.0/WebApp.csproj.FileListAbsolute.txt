@@ -65,3 +65,5 @@ D:\projects\dotnet\WebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\projects\dotnet\WebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\projects\dotnet\WebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\projects\dotnet\WebApp\obj\Debug\net6.0\WebApp.MvcApplicationPartsAssemblyInfo.cs
+D:\projects\dotnet\WebApp\obj\Debug\net6.0\WebApp.RazorAssemblyInfo.cache
+D:\projects\dotnet\WebApp\obj\Debug\net6.0\WebApp.RazorAssemblyInfo.cs

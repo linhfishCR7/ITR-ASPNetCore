@@ -1,2 +1,1 @@
-# SportsStore
-.Net Core 6
+### There are some projects about asp.net core

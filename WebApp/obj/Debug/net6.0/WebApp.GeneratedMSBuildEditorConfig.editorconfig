@@ -15,6 +15,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\projects\dotnet\WebApp
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/projects/dotnet/WebApp/Pages/Data.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/dotnet/WebApp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/dotnet/WebApp/Pages/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90Rm91bmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/dotnet/WebApp/Pages/Suppliers/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VwcGxpZXJzXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/projects/dotnet/WebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

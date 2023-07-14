@@ -67,6 +67,34 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/projects/dotnet/identity/IdentityApp/Pages/Identity/Admin/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/dotnet/identity/IdentityApp/Pages/Identity/Admin/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcQWRtaW5cX0FkbWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/dotnet/identity/IdentityApp/Pages/Identity/Admin/_AdminWorkflows.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcQWRtaW5cX0FkbWluV29ya2Zsb3dzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/dotnet/identity/IdentityApp/Pages/Identity/Admin/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcQWRtaW5cX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/dotnet/identity/IdentityApp/Pages/Identity/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/dotnet/identity/IdentityApp/Pages/Identity/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/dotnet/identity/IdentityApp/Pages/Identity/_Workflows.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcX1dvcmtmbG93cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/projects/dotnet/identity/IdentityApp/Pages/Landing.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGFuZGluZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

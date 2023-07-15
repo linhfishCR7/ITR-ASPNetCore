@@ -247,3 +247,11 @@ D:\projects\dotnet\SportsSln\SportsStore\obj\Debug\net6.0\refint\SportsStore.dll
 D:\projects\dotnet\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.pdb
 D:\projects\dotnet\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.genruntimeconfig.cache
 D:\projects\dotnet\SportsSln\SportsStore\obj\Debug\net6.0\ref\SportsStore.dll
+D:\projects\dotnet\SportsSln\SportsStore\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\projects\dotnet\SportsSln\SportsStore\bin\Debug\net6.0\AWSSDK.Extensions.NETCore.Setup.dll
+D:\projects\dotnet\SportsSln\SportsStore\bin\Debug\net6.0\AWSSDK.S3.dll
+D:\projects\dotnet\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\projects\dotnet\SportsSln\SportsStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\projects\dotnet\SportsSln\SportsStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\projects\dotnet\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.MvcApplicationPartsAssemblyInfo.cs
+D:\projects\dotnet\SportsSln\SportsStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll

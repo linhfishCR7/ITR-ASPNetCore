@@ -24,5 +24,7 @@ namespace SportsStore.Models
         [Required(ErrorMessage = "Please enter an image URL")]
         [Display(Name = "Image URL")]
         public string Image { get; set; } = String.Empty;
+
+        public string PresignedUrl { get; set; } = String.Empty;
     }
 }

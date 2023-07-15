@@ -12,7 +12,7 @@
         </h4>
     </div>
     <div class="card-img-top">
-        <img src="@Model?.Image" alt="Product Image" class="img-fluid img-thumbnail" style="max-width: 50%; height: 200px" />
+        <img src="@Model?.PresignedUrl" alt="Product Image" class="img-fluid img-thumbnail" style="max-width: 50%; height: 200px" />
     </div>
     <div class="card-text p-1">@Model?.Description</div>
     <form id="@Model?.ProductID" asp-page="/Cart" method="post">

@@ -242,3 +242,11 @@ D:\projects\dotnet\SportsSln\SportsStore\obj\Release\net6.0\refint\SportsStore.d
 D:\projects\dotnet\SportsSln\SportsStore\obj\Release\net6.0\SportsStore.pdb
 D:\projects\dotnet\SportsSln\SportsStore\obj\Release\net6.0\SportsStore.genruntimeconfig.cache
 D:\projects\dotnet\SportsSln\SportsStore\obj\Release\net6.0\ref\SportsStore.dll
+D:\projects\dotnet\SportsSln\SportsStore\bin\Release\net6.0\AWSSDK.Core.dll
+D:\projects\dotnet\SportsSln\SportsStore\bin\Release\net6.0\AWSSDK.Extensions.NETCore.Setup.dll
+D:\projects\dotnet\SportsSln\SportsStore\bin\Release\net6.0\AWSSDK.S3.dll
+D:\projects\dotnet\SportsSln\SportsStore\obj\Release\net6.0\staticwebassets\msbuild.SportsStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\projects\dotnet\SportsSln\SportsStore\obj\Release\net6.0\staticwebassets\msbuild.build.SportsStore.props
+D:\projects\dotnet\SportsSln\SportsStore\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.SportsStore.props
+D:\projects\dotnet\SportsSln\SportsStore\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.SportsStore.props
+D:\projects\dotnet\SportsSln\SportsStore\obj\Release\net6.0\staticwebassets.pack.json

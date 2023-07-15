@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using SportsStore.Models;
 using Microsoft.AspNetCore.Identity;
+using Amazon.S3;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +11,19 @@ builder.Services.AddDbContext<StoreDbContext>(opts => {
     opts.UseSqlServer(
         builder.Configuration["ConnectionStrings:SportsStoreConnection"]);
 });
+
+// Configure AWS services
+var awsOptions = builder.Configuration.GetAWSOptions();
+awsOptions.Credentials = new Amazon.Runtime.BasicAWSCredentials(
+    builder.Configuration["AWS:AccessKey"], builder.Configuration["AWS:SecretKey"]); // Set the access key and secret key
+awsOptions.Region = Amazon.RegionEndpoint.GetBySystemName(builder.Configuration["AWS:Region"]); // Set the region
+builder.Services.AddDefaultAWSOptions(awsOptions);
+builder.Services.AddAWSService<IAmazonS3>();
+
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
 
 builder.Services.AddScoped<IStoreRepository, EFStoreRepository>();
 builder.Services.AddScoped<IOrderRepository, EFOrderRepository>();
@@ -28,6 +42,13 @@ builder.Services.AddIdentity<IdentityUser, IdentityRole>()
 .AddEntityFrameworkStores<AppIdentityDbContext>();
 
 var app = builder.Build();
+
+// Configure the HTTP request pipeline.
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
 
 if (app.Environment.IsProduction())
 {

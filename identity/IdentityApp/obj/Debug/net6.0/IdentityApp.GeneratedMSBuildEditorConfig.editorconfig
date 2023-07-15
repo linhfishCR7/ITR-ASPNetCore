@@ -5,160 +5,161 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = IdentityApp
 build_property.RootNamespace = IdentityApp
-build_property.ProjectDir = D:\projects\dotnet\identity\IdentityApp\
+build_property.ProjectDir = d:\projects\dotnet\identity\IdentityApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\projects\dotnet\identity\IdentityApp
+build_property.MSBuildProjectDirectory = d:\projects\dotnet\identity\IdentityApp
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/projects/dotnet/identity/IdentityApp/Areas/Identity/Pages/Account/Login.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW5hYmxlQXV0aGVudGljYXRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Areas/Identity/Pages/Account/Manage/StoreData.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Areas/Identity/Pages/Account/Manage/StoreData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU3RvcmVEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Areas/Identity/Pages/Account/Register.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Areas/Identity/Pages/_ViewImports.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Areas/Identity/Pages/_ViewStart.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Pages/Admin.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Pages/Admin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Pages/Edit.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Pages/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Pages/Identity/Admin/Dashboard.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Pages/Identity/Admin/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Pages/Identity/Admin/_AdminLayout.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Pages/Identity/Admin/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcQWRtaW5cX0FkbWluTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Pages/Identity/Admin/_AdminWorkflows.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Pages/Identity/Admin/_AdminWorkflows.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcQWRtaW5cX0FkbWluV29ya2Zsb3dzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Pages/Identity/Admin/_ViewStart.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Pages/Identity/Admin/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcQWRtaW5cX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Pages/Identity/Index.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Pages/Identity/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Pages/Identity/_Layout.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Pages/Identity/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Pages/Identity/_Workflows.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Pages/Identity/_Workflows.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcX1dvcmtmbG93cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Pages/Landing.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Pages/Landing.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGFuZGluZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Pages/Store.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Pages/Store.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RvcmUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Pages/_NavigationPartial.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Pages/_NavigationPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX05hdmlnYXRpb25QYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Pages/_ViewImports.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Pages/_ViewStart.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Views/Admin/Edit.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Views/Admin/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Views/Admin/Index.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Views/Home/Index.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Views/Shared/_CustomIdentityLayout.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Views/Shared/_CustomIdentityLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DdXN0b21JZGVudGl0eUxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Views/Shared/_ExternalButtonPartial.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Views/Shared/_ExternalButtonPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9FeHRlcm5hbEJ1dHRvblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Views/Shared/_InfoLayout.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Views/Shared/_InfoLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9JbmZvTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Views/Shared/_Layout.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Views/Shared/_LoginPartial.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Views/Shared/_NavigationPartial.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Views/Shared/_NavigationPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZpZ2F0aW9uUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Views/Store/Index.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Views/Store/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Views/_ViewImports.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/dotnet/identity/IdentityApp/Views/_ViewStart.cshtml]
+[d:/projects/dotnet/identity/IdentityApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
